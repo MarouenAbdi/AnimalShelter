@@ -1,4 +1,4 @@
-Animal Shelter Frontend Project (Marouen Abdi's Assignement)
+Animal Shelter Frontend assignement for RestAPi BE project.
 
 ## Requirements
 
